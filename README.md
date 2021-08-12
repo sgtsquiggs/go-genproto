@@ -2,7 +2,7 @@ Go generated proto packages
 ===========================
 
 [![Build Status](https://travis-ci.org/google/go-genproto.svg?branch=master)](https://travis-ci.org/google/go-genproto)
-[![GoDoc](https://godoc.org/google.golang.org/genproto?status.svg)](https://godoc.org/google.golang.org/genproto)
+[![GoDoc](https://godoc.org/github.com/sgtsquiggs/go-genproto?status.svg)](https://godoc.org/github.com/sgtsquiggs/go-genproto)
 
 > **IMPORTANT** This repository is currently experimental. The structure
 > of the contained packages is subject to change. Please see the original

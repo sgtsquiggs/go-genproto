@@ -16,12 +16,12 @@
 
 # This script rebuilds the generated code for the protocol buffers.
 # To run this you will need protoc and goprotobuf installed;
-# see https://github.com/golang/protobuf for instructions.
+# see https://github.com/sgtsquiggs/protobuf for instructions.
 # You also need Go and Git installed.
 
 set -e
 
-PKG=google.golang.org/genproto
+PKG=github.com/sgtsquiggs/go-genproto
 PROTO_REPO=https://github.com/google/protobuf
 PROTO_SUBDIR=src/google/protobuf
 GOOGLEAPIS_REPO=https://github.com/googleapis/googleapis
